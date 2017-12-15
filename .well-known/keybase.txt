@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/marsjaninzmarsa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://niewiarowski.it
+  * I am marsjaninzmarsa (https://keybase.io/marsjaninzmarsa) on keybase.
+  * I have a public key with fingerprint E3A2 EE69 709C AC9E 2957  5224 78A3 6385 1983 2752
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b72c1ac94daec93a8045c87ba413b85be6bedbfccb879a387a2445f4cb7141060a",
+      "fingerprint": "e3a2ee69709cac9e2957522478a3638519832752",
+      "host": "keybase.io",
+      "key_id": "78a3638519832752",
+      "kid": "0101b72c1ac94daec93a8045c87ba413b85be6bedbfccb879a387a2445f4cb7141060a",
+      "uid": "48c8ce58fc2e805ab939303b91fb0f19",
+      "username": "marsjaninzmarsa"
+    },
+    "service": {
+      "hostname": "niewiarowski.it",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1513329388,
+  "expire_in": 157680000,
+  "prev": "6ae253fe4241a2aca241e5838a589de27d35a267b839230e0694370ba63c154b",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUY3iVoBHSWpAjUBrxAYCLee8/9XKCchn4UTZgWZDbsnHP3LFw+7q57
+F5DPChB0IEQK0kTGZamAGRqDCquZDHUzE1RQaSxSwaGwVAIHFTHqXsb+9bPz55z3
+fZ/nOc/7ztuw7CGDj3G7R9oRVhmzyXjqGjK8DhpnSghktxYR5hIiBy9eONeKVZcl
+R7YSZoKkSArxtERBSWSsEEsigALJsJLAI8hQAAkswhzCVmSTJCTwIgQCD2mGYW2M
+hHiKoUiOhEQcYZOVTOx0OGXFpcliAGmMOZEnRUlTxrTI8ixNM7wAAQcElhIFQGsZ
+jZhlV3WGZg5BFcfLdi2nBZZFe/+B/5995y/KMYIkSJgVbBKNBZKFSAQiIAESKRsi
+bZSoA1XsVGAe1tB50KlmQ0VWivUXJMriCK1YIEtYn6/e0AOgIuNCGTrthWqOHC+7
+NBWH0+6yS/ZcrZjlcjnMOtdV5NDBhRhZHshYkKxYtYFqhALsVGW7QpgpDSm5ZF2X
+YikAaBEIQhyBtztkJ7bIOoLlOYHUjv4NLiCgmeAgpllgwwzNUJCGkjYBSmsTCJAV
+RCumeStgIc3xSAAiDUhMciIDeBJBDkgUyyBC72ybYifMnOYTZmo2VTlTga58JybK
+Anb5rPI1GH0MD/v56KtmCPAP+nf/qktNC0nJ1uezOwb7x4DNGWn5+wNh3GNmPcm7
+14nWy+MnTIY7vT6Hz1vCQUBjapA0+cqt9o6LgZWnt9oGrv+leGrqFhrmQ2bdgWJm
++jC+2pQxOBo5vNw/zPVu29Q7XnJoRxfMthftT/vjifmodeHpRNhwZ/TtgcTZItT6
+apN7Z/PFe9ljUfufXJa84YuW7uDzj9z9wS8tMiV8tji1IOg0Lvct3R121j1z25Kk
+tG7sdBw27DW9V3XjxZeSJpaq+5rPDOe2P/Vh+QbjzcdOxqiT1VzY5u+K5aOp3b0N
+C8dnJu57fOf2plRMTU2fKfKL4owHvEvLQ8R87zM3an9tej8qd81J79vq2NCfEQSl
+Hviksx8/eq69NmCkzlS580r+loTkrYErG+pWdgRfS4OX6uPnZOQ+VpGa6/6s+fsL
+8uREjP/ntUcfNw7WBfr9Xp3ehWqeXf1034nQ3oz6U/PfSm+9eXmt96OMiB+3jLxh
+Or7rtStXq+7OhSxPzGgb67m3KvbjrKo5z5LQUr+S0AgCTd95ueDTY2x+1wuj84l9
+LuvqS00VDXvC9+wz/RIsT/TPxnadTX5u2l3229cDZY3ta2jw5fWKI33zKQc3V7Zt
+rM1be6ildXR1nG1JT3RpsLllJGh9XwL3U+z97oQLPyec6xmqnxmqKdvm37Pi4JFb
+eV+tP7Ri5GZ016b6b3q9fMXo5Pg/
+=0Gzf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marsjaninzmarsa
+
+==================================================================
