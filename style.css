@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Signika+Negative:300|Noto+Serif);
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+html {
+	background: black url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	color: #ccc;
+	text-align: center;
+	text-shadow: 0 -1px 1px #4d4d4d;
+	font-family: 'Signika Negative', Signika, sans-serif;
+}
+body {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	padding: 0 10px;
+}
+h1 {
+	font-family: 'Noto Serif', sans-serif;
+	font-weight: normal;
+	margin: 0 0 10vh;
+}
+ul {
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	list-style: none;
+	margin: 0;
+	padding: 10px 20px;
+	font-size: 80%;
+}
+li {
+	display: block;
+	padding: 0 5px;
+}
+:link, :link:hover, :visited {
+	color: #eee;
+	text-decoration: none;
+}
+:link:hover {
+	text-decoration: underline;
+}
